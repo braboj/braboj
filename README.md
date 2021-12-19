@@ -4,8 +4,7 @@
 
 <div>
   <a href="https://github.com/braboj">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=braboj&count_private=true&theme=cobalt&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braboj&layout=compact&langs_count=7&theme=cobalt"/>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </div>
   
 <p align='center'> I'm Branko. </p>
