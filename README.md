@@ -4,6 +4,6 @@
 <p align='center'>
 I'm Branko.
 </p>
-<p align='center'>For enquiries, reach out @ braboj@gmail.com or over on <a href="https://twitter.com/braboj">Twitter</a>.</p>
+<p align='center'>For enquiries, reach out @ braboj.dev or over on <a href="https://twitter.com/braboj">Twitter</a>.</p>
 
 <h1 align='center'><i>Stay awesome!</i></h1>
