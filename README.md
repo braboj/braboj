@@ -2,7 +2,7 @@
 
 > Call me Branko.
 >> I am passionate about code 
->>> and even more passionate about food
+>>> With keen interest in exotic food
 >>>> But even food cannot beat a good book
 >>>> 
 > End
