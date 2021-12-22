@@ -1,5 +1,7 @@
-![Braboj's GitHub stats](https://github-readme-stats.vercel.app/api?username=braboj)
-
 # Hi! :wave:
-I'm Branko.
+__________________________________________________________________________________________________
+I am Branko and I am passionate about programming. 
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=braboj)
 
