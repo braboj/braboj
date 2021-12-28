@@ -1,3 +1,4 @@
+![Banner](./assets/images/branko-banner-optimized.jpg)
 # :wave: Hi!
 
 > Call me Branko.
