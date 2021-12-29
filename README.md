@@ -1,12 +1,20 @@
-<p align="right">
-  <img src="./assets/images/branko-banner-optimized-2.jpg" />
+<p align="center">
+  <img src="assets/images/branko-banner-optimized-3.svg"
+</p>
+  
+---
+  
+<p align="center">
+  Hi! 👋
 </p>
 
 ---
 
-> Call me Branko.
->> I am passionate about code, 
->>> With keen interest in great food,
->>>> But even food cannot beat a good book.
->>>> 
-> End
+<p align="center">
+Call me Branko. <br>
+I am passionate about code, <br>
+With keen interest in great food, <br>
+But even food cannot beat a good book. <br>
+</p>
+ 
+
