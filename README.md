@@ -1,7 +1,10 @@
-<p align="center">
-  <img src="assets/images/branko-banner-optimized-3.svg"
-</p>
-  
+```console
+                                          __                  __            __ 
+                                         |  |--..----..---.-.|  |--..-----.|__|
+                                         |  _  ||   _||  _  ||  _  ||  _  ||  |
+                                         |_____||__|  |___._||_____||_____||  |
+                                                                          |___|
+```                                                    
 ---
   
 <p align="center">
