@@ -1,3 +1,0 @@
-- https://codepen.io/
-- https://codepen.io/jh3y
-- https://greensock.com/
