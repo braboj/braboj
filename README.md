@@ -1,7 +1,3 @@
-<p align='center'>
- <img src='assets/images/skills.png' />
-</p>
-
 ---  
 <p align="center">
   Hi! 👋
