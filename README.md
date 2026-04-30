@@ -23,12 +23,7 @@ but even food cannot beat a good book.
 
 <p align="center">
   <samp>
-    <a href="https://braboj.me/tutorial-git">git</a> .
-    <a href="https://github.com/braboj/tutorial-python">python</a> .
-    <a href="https://github.com/braboj/tutorial-docker">docker</a> .
-    <a href="https://github.com/braboj/tutorial-modbus">modbus</a> .
-    <a href="https://github.com/braboj/tutorial-networks">networks</a> .
-    <a href="https://github.com/braboj/tutorial-os">operating systems</a>
+    <a href="https://braboj.me/tutorial-git">git</a>
   </samp>
 </p>
 
