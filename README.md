@@ -2,8 +2,7 @@
   <samp>
     <a href="https://braboj.me">about</a> .
     <a href="https://github.com/braboj/solid-ai-templates">templates</a> .
-    <a href="https://codewithbranko.com">tutorials</a> .
-    <a href="https://github.com/braboj/tutorial-git">git tutorial</a>
+    <a href="https://codewithbranko.com">learning</a>
   </samp>
 </p>
 
@@ -19,5 +18,36 @@ but even food cannot beat a good book.
 ---
 
 <p align="center">
-  <samp>OT/IT engineer · developer tools · Varna, Bulgaria</samp>
+  <samp>tutorials</samp>
+</p>
+
+<p align="center">
+  <samp>
+    <a href="https://braboj.me/tutorial-git">git</a> .
+    <a href="https://github.com/braboj/tutorial-python">python</a> .
+    <a href="https://github.com/braboj/tutorial-docker">docker</a> .
+    <a href="https://github.com/braboj/tutorial-modbus">modbus</a> .
+    <a href="https://github.com/braboj/tutorial-networks">networks</a> .
+    <a href="https://github.com/braboj/tutorial-os">operating systems</a>
+  </samp>
+</p>
+
+<p align="center">
+  <samp>demos</samp>
+</p>
+
+<p align="center">
+  <samp>
+    <a href="https://github.com/braboj/demo-state-machines">state machines</a> .
+    <a href="https://github.com/braboj/demo-sensor-app">sensor app</a> .
+    <a href="https://github.com/braboj/demo-hvlp">mqtt protocol</a> .
+    <a href="https://github.com/braboj/demo-randomgen">rest api</a> .
+    <a href="https://github.com/braboj/demo-the-great-wall">multiprocessing</a>
+  </samp>
+</p>
+
+---
+
+<p align="center">
+  <samp>OT/IT engineer · industrial connectivity · data historians · developer tools · Varna, Bulgaria</samp>
 </p>
