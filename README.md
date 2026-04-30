@@ -24,7 +24,8 @@ but even food cannot beat a good book.
 <p align="center">
   <samp>
     <a href="https://braboj.me/tutorial-git">git</a> .
-    <a href="https://braboj.me/tutorial-python">python</a>
+    <a href="https://braboj.me/tutorial-python">python</a> .
+    <a href="https://braboj.me/tutorial-azure">azure</a>
   </samp>
 </p>
 
