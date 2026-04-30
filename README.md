@@ -1,8 +1,8 @@
 <p align="center">
   <samp>
-    <a href="https://codewithbranko.com">tutorials</a> .
-    <a href="https://braboj.me">blog</a> .
+    <a href="https://braboj.me">about</a> .
     <a href="https://github.com/braboj/solid-ai-templates">templates</a> .
+    <a href="https://codewithbranko.com">tutorials</a> .
     <a href="https://github.com/braboj/tutorial-git">git tutorial</a>
   </samp>
 </p>
