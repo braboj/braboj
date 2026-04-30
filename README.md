@@ -16,14 +16,11 @@ but even food cannot beat a good book.
 
 ---
 
-<table align="center">
-<tr><th><samp>tools</samp></th><th><samp>tutorials</samp></th><th><samp>demos</samp></th></tr>
-<tr><td><samp><a href="https://github.com/braboj/solid-ai-templates">solid-ai-templates</a></samp></td><td><samp><a href="https://braboj.me/tutorial-git">git</a></samp></td><td><samp><a href="https://github.com/braboj/demo-state-machines">state machines</a></samp></td></tr>
-<tr><td></td><td><samp><a href="https://braboj.me/tutorial-python">python</a></samp></td><td><samp><a href="https://github.com/braboj/demo-sensor-app">sensor app</a></samp></td></tr>
-<tr><td></td><td><samp><a href="https://braboj.me/tutorial-azure">azure</a></samp></td><td><samp><a href="https://github.com/braboj/demo-hvlp">mqtt protocol</a></samp></td></tr>
-<tr><td></td><td></td><td><samp><a href="https://github.com/braboj/demo-randomgen">rest api</a></samp></td></tr>
-<tr><td></td><td></td><td><samp><a href="https://github.com/braboj/demo-the-great-wall">multiprocessing</a></samp></td></tr>
-</table>
+**tools** · [solid-ai-templates](https://github.com/braboj/solid-ai-templates)
+
+**tutorials** · [git](https://braboj.me/tutorial-git) · [python](https://braboj.me/tutorial-python) · [azure](https://braboj.me/tutorial-azure)
+
+**demos** · [state machines](https://github.com/braboj/demo-state-machines) · [sensor app](https://github.com/braboj/demo-sensor-app) · [mqtt](https://github.com/braboj/demo-hvlp) · [rest api](https://github.com/braboj/demo-randomgen) · [multiprocessing](https://github.com/braboj/demo-the-great-wall)
 
 ---
 
