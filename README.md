@@ -1,7 +1,6 @@
 <p align="center">
   <samp>
     <a href="https://braboj.me">about</a> .
-    <a href="https://github.com/braboj/solid-ai-templates">templates</a> .
     <a href="https://codewithbranko.com">learning</a>
   </samp>
 </p>
@@ -16,6 +15,16 @@ but even food cannot beat a good book.
 </p>
 
 ---
+
+<p align="center">
+  <samp>templates</samp>
+</p>
+
+<p align="center">
+  <samp>
+    <a href="https://github.com/braboj/solid-ai-templates">solid-ai-templates</a>
+  </samp>
+</p>
 
 <p align="center">
   <samp>tutorials</samp>
