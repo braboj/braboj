@@ -17,7 +17,7 @@ but even food cannot beat a good book.
 ---
 
 <table align="center">
-<tr><th><samp>templates</samp></th><th><samp>tutorials</samp></th><th><samp>demos</samp></th></tr>
+<tr><th><samp>tools</samp></th><th><samp>tutorials</samp></th><th><samp>demos</samp></th></tr>
 <tr><td><samp><a href="https://github.com/braboj/solid-ai-templates">solid-ai-templates</a></samp></td><td><samp><a href="https://braboj.me/tutorial-git">git</a></samp></td><td><samp><a href="https://github.com/braboj/demo-state-machines">state machines</a></samp></td></tr>
 <tr><td></td><td><samp><a href="https://braboj.me/tutorial-python">python</a></samp></td><td><samp><a href="https://github.com/braboj/demo-sensor-app">sensor app</a></samp></td></tr>
 <tr><td></td><td><samp><a href="https://braboj.me/tutorial-azure">azure</a></samp></td><td><samp><a href="https://github.com/braboj/demo-hvlp">mqtt protocol</a></samp></td></tr>
