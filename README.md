@@ -43,5 +43,5 @@ but even food cannot beat a good book.
 ---
 
 <p align="center">
-  <samp>OT/IT engineer · industrial connectivity · data historians · developer tools · tester · photographer</samp>
+  <samp>OT/IT engineer · industrial connectivity · data historians · developer tools · photographer</samp>
 </p>
