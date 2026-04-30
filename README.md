@@ -16,11 +16,29 @@ but even food cannot beat a good book.
 
 ---
 
-**tools** · [solid-ai-templates](https://github.com/braboj/solid-ai-templates)
+<p align="center">
+  <samp>
+    <a href="https://github.com/braboj/solid-ai-templates">solid-ai-templates</a>
+  </samp>
+</p>
 
-**tutorials** · [git](https://braboj.me/tutorial-git) · [python](https://braboj.me/tutorial-python) · [azure](https://braboj.me/tutorial-azure)
+<p align="center">
+  <samp>
+    <a href="https://braboj.me/tutorial-git">git</a> .
+    <a href="https://braboj.me/tutorial-python">python</a> .
+    <a href="https://braboj.me/tutorial-azure">azure</a>
+  </samp>
+</p>
 
-**demos** · [state machines](https://github.com/braboj/demo-state-machines) · [angular](https://github.com/braboj/demo-sensor-app) · [mqtt](https://github.com/braboj/demo-hvlp) · [rest api](https://github.com/braboj/demo-randomgen) · [multiprocessing](https://github.com/braboj/demo-the-great-wall)
+<p align="center">
+  <samp>
+    <a href="https://github.com/braboj/demo-state-machines">state machines</a> .
+    <a href="https://github.com/braboj/demo-sensor-app">angular</a> .
+    <a href="https://github.com/braboj/demo-hvlp">mqtt</a> .
+    <a href="https://github.com/braboj/demo-randomgen">rest api</a> .
+    <a href="https://github.com/braboj/demo-the-great-wall">multiprocessing</a>
+  </samp>
+</p>
 
 ---
 
