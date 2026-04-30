@@ -20,7 +20,7 @@ but even food cannot beat a good book.
 
 **tutorials** · [git](https://braboj.me/tutorial-git) · [python](https://braboj.me/tutorial-python) · [azure](https://braboj.me/tutorial-azure)
 
-**demos** · [state machines](https://github.com/braboj/demo-state-machines) · [sensor app](https://github.com/braboj/demo-sensor-app) · [mqtt](https://github.com/braboj/demo-hvlp) · [rest api](https://github.com/braboj/demo-randomgen) · [multiprocessing](https://github.com/braboj/demo-the-great-wall)
+**demos** · [state machines](https://github.com/braboj/demo-state-machines) · [angular](https://github.com/braboj/demo-sensor-app) · [mqtt](https://github.com/braboj/demo-hvlp) · [rest api](https://github.com/braboj/demo-randomgen) · [multiprocessing](https://github.com/braboj/demo-the-great-wall)
 
 ---
 
