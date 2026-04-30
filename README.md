@@ -17,7 +17,8 @@ but even food cannot beat a good book.
 ---
 
 <p align="center">
-  <samp>templates</samp>
+  <samp>templates</samp><br>
+  <samp><sub>composable context files for AI coding agents</sub></samp>
 </p>
 
 <p align="center">
@@ -27,7 +28,8 @@ but even food cannot beat a good book.
 </p>
 
 <p align="center">
-  <samp>tutorials</samp>
+  <samp>tutorials</samp><br>
+  <samp><sub>hands-on guides with exercises and quizzes</sub></samp>
 </p>
 
 <p align="center">
@@ -39,7 +41,8 @@ but even food cannot beat a good book.
 </p>
 
 <p align="center">
-  <samp>demos</samp>
+  <samp>demos</samp><br>
+  <samp><sub>small projects showing patterns and protocols</sub></samp>
 </p>
 
 <p align="center">
